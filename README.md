@@ -21,5 +21,8 @@ El estudio se desarrolla en varias etapas:
 5. Aplicación de tests a usuarios
 
 ## Lugar
+![Example 3](bg-masthead.jpg)
+*Laboratorio de Experimentación Multimedia. UASLP (2024)*
+
 El Laboratorio de Experimentación Multimedia (LEM) de la Universidad Autónoma de San Luis Potosí, se conforma como un puente entre la ciencia y los productos de diseño, ahondando en el estudio de los procesos y la creación de las formas, así como en la exploración de nuevos conceptos derivados del avance tecnológico del Siglo XXI. En el LEM participa un equipo multidisciplinar de las áreas de la ciencia y el diseño, centrados en el estudio, la invención y el uso creativo de las tecnologías digitales para el mejoramiento de las formas en que se conciben, se materializan y comunican ideas de diseño.
 
